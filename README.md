@@ -8,4 +8,4 @@ HSL to RGB color conversions are performed. Some randomization done without usin
 
 The borders between jigsaw pieces are randomized given a particular seed based on which arrangement of pieces is chosen.
 
-[MSet Turtle Jigsaw Puzzle](https://github.com/stephen-hannam/Turtle_MandelBrot_Set/blob/master/IFB104_1.png)
+![alt text](https://github.com/stephen-hannam/Turtle_MandelBrot_Set/blob/master/IFB104_1.png "MSet Turtle Jigsaw")
