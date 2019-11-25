@@ -7,3 +7,5 @@ Other parameters that affect the MSet visualization control for fade of intensit
 HSL to RGB color conversions are performed. Some randomization done without using the random library, and the arrangement of jigsaw pieces is controlled by specifying sets of strings (names) in lists, these lists are named by the convention 'attempt_xx' where 'xx' is a number.
 
 The borders between jigsaw pieces are randomized given a particular seed based on which arrangement of pieces is chosen.
+
+[MSet Turtle Jigsaw Puzzle](https://github.com/stephen-hannam/Turtle_MandelBrot_Set/blob/master/IFB104_1.png)
